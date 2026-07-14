@@ -1,16 +1,24 @@
 ---
-id: "article_42"
-title: "Консоль управления ИКС"
-description: "Служебный интерфейс ИКС, работающий в текстовом режиме. Описание разделов: настройка сети, управление сервером, техническая поддержка и информация о программе."
+id: article_42
+title: Консоль управления ИКС
+description: >-
+  Служебный интерфейс ИКС, работающий в текстовом режиме. Описание разделов:
+  настройка сети, управление сервером, техническая поддержка и информация о
+  программе.
 type: article
-section: "konsol-upravleniya-iks"
-parent_id: "category_13"
+section: konsol-upravleniya-iks
+parent_id: category_13
 level: 2
 order: 2
-source_url: "https://doc.a-real.ru/index.php?article=42"
+source_url: https://doc.a-real.ru/index.php?article=42
 processed_at: "2026-07-13"
 images_count: 18
-tags: [икс, консоль, управление, администрирование, recovery]
+tags:
+  - икс
+  - консоль
+  - управление
+  - администрирование
+  - recovery
 ---
 
 # Консоль управления ИКС
