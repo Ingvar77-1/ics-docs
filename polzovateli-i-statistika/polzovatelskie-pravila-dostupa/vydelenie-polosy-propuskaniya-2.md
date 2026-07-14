@@ -5,15 +5,13 @@ description: "В ИКС предусмотрена возможность при
 type: "article"
 section: "polzovateli-i-statistika/polzovatelskie-pravila-dostupa"
 parent_id: "category_30"
-level: 3
-order: 12
+level: "3"
+order: "12"
 source_url: "https://doc.a-real.ru/index.php?article=163"
 processed_at: "2026-07-14"
-images_count: 2
-tags: [икс, qos, polosa_propushchaniya, traffic_prioritet]
+images_count: "2"
+tags: "[икс, qos, polosa_propushchaniya, traffic_prioritet]"
 ---
-
-# Выделение полосы пропускания
 
 В ИКС предусмотрена возможность присваивать одному виду трафика более высокий приоритет над другим. Например, чтобы перегрузка канала HTTP-трафиком не создавала задержек в работе IP-телефонии, можно зарезервировать часть интернет-канала под VoIP-пакеты.
 
@@ -55,7 +53,3 @@ ae, age, alc, ale, an, ath, aue, axe, bce, bfe, bge, bxe, cas, cxgbe, dc, de, ed
 ```
 
 > ⚠ Внимание! Выделение полосы пропускания не работает с сетями типа OpenVPN DCO.
-
----
-
-**Источник:** [Документация ИКС — Выделение полосы пропускания](https://doc.a-real.ru/index.php?article=163)

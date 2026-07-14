@@ -2,18 +2,16 @@
 id: "article_60"
 title: "DNS"
 description: "DNS чаще всего используется для получения IP-адреса по имени хоста. В ИКС за DNS-сервер отвечает модуль «DNS»."
-type: article
+type: "article"
 section: "set/dns"
 parent_id: "category_47"
-level: 3
-order: 2
+level: "3"
+order: "2"
 source_url: "https://doc.a-real.ru/index.php?article=60"
 processed_at: "2026-07-14"
-images_count: 5
-tags: [икс, dns, сеть, настройка]
+images_count: "5"
+tags: "[икс, dns, сеть, настройка]"
 ---
-
-# DNS
 
 DNS чаще всего используется для получения IP-адреса по имени хоста (компьютера или устройства), получения информации о маршрутизации служб и обслуживающих узлов для протоколов в домене (SRV-запись).
 
@@ -86,7 +84,3 @@ DNS обладает иерархической структурой. Кажды
 ![Иллюстрация](../../images/article_60/dns4-12.4.png)
 
 Журнал является стандартным элементом веб-интерфейса ИКС.
-
----
-
-**Источник:** [Документация ИКС — DNS](https://doc.a-real.ru/index.php?article=60)

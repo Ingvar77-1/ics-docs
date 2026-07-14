@@ -2,18 +2,16 @@
 id: "article_74"
 title: "Детектор атак Suricata"
 description: "Модуль «Детектор атак Suricata» предназначен для запуска, настройки и конфигурирования open source IPS/IDS-системы Suricata, интегрированной в межсетевой экран ИКС."
-type: article
+type: "article"
 section: "zaschita/detektor-atak-suricata"
 parent_id: "category_101"
-level: 3
-order: 2
+level: "3"
+order: "2"
 source_url: "https://doc.a-real.ru/index.php?article=74"
 processed_at: "2026-07-13"
-images_count: 9
-tags: [икс, detektor-atak, suricata, ips-ids, сетевая-безопасность]
+images_count: "9"
+tags: "[икс, detektor-atak, suricata, ips-ids, сетевая-безопасность]"
 ---
-
-# Детектор атак Suricata
 
 Модуль «Детектор атак Suricata» предназначен для запуска, настройки и конфигурирования open source IPS/IDS-системы Suricata, интегрированной в межсетевой экран ИКС.
 
@@ -227,7 +225,3 @@ tags: [икс, detektor-atak, suricata, ips-ids, сетевая-безопасн
 При удалении записей на данной вкладке удалятся все логи службы за выбранный период времени.
 
    Была ли эта статья полезной? [Да](javascript:) | [Нет](javascript:)
-
----
-
-**Источник:** [Документация ИКС — Детектор атак Suricata](https://doc.a-real.ru/index.php?article=74)

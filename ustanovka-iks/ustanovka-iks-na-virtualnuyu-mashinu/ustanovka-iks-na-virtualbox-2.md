@@ -2,18 +2,16 @@
 id: "article_36"
 title: "Установка ИКС на VirtualBox"
 description: "Инструкция по установке межсетевого экрана ИКС на виртуальную машину Oracle VM VirtualBox."
-type: article
+type: "article"
 section: "ustanovka-iks/ustanovka-iks-na-virtualnuyu-mashinu"
 parent_id: "category_56"
-level: 3
-order: 4
+level: "3"
+order: "4"
 source_url: "https://doc.a-real.ru/index.php?article=36"
 processed_at: "2026-07-14"
-images_count: 0
-tags: [икс, установка, virtualbox, виртуализация, firewall]
+images_count: "0"
+tags: "[икс, установка, virtualbox, виртуализация, firewall]"
 ---
-
-# Установка ИКС на VirtualBox
 
 Инструкция по установке межсетевого экрана ИКС на виртуальную машину Oracle VM VirtualBox.
 
@@ -42,7 +40,3 @@ VirtualBox (Oracle VM VirtualBox) — это разработанный комп
 13. Отметьте появившийся файл в списке и нажмите кнопку **«Выбрать»**.
 14. Подтвердите настройки, нажав кнопку **«ОК»**.
 15. Нажмите **«ОК»** и запустите виртуальную машину. Начнется загрузка установщика ИКС по аналогии с обычной [установкой ИКС](/index.php?article=269) на компьютер.
-
----
-
-**Источник:** [Документация ИКС — Установка ИКС на VirtualBox](https://doc.a-real.ru/index.php?article=36)

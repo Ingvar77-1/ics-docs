@@ -2,18 +2,16 @@
 id: "article_392"
 title: "Wireguard-сеть"
 description: "Как добавить Wireguard-сеть в ИКС: настройка локальных адресов, диапазонов IP, DNS, MTU, разрешённых сетей, подключение пиров и клиентов."
-type: article
+type: "article"
 section: "set/provaydery-i-seti"
 parent_id: "category_44"
-level: 3
-order: 9
+level: "3"
+order: "9"
 source_url: "https://doc.a-real.ru/index.php?article=392"
 processed_at: "2026-07-14"
-images_count: 11
-tags: [икс, vpn, wireguard, сети, администрирование]
+images_count: "11"
+tags: "[икс, vpn, wireguard, сети, администрирование]"
 ---
-
-# Wireguard-сеть
 
 Добавить Wireguard-сеть можно в меню **Сеть > Провайдеры и сети**.
 
@@ -133,7 +131,3 @@ Wireguard работает как через резервного провайд
 ![wireguard_client3.jpg](../../images/article_392/wireguard_client3.jpg)
 
 [Видео](https://vk.com/video_ext.php?oid=-18503994&oid=-18503994&id=456239332&hd=2)
-
----
-
-**Источник:** [Документация ИКС — Wireguard-сеть](https://doc.a-real.ru/index.php?article=392)

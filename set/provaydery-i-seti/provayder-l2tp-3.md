@@ -2,18 +2,16 @@
 id: "article_212"
 title: "Провайдер L2TP"
 description: "Добавить провайдер L2TP можно в меню Сеть → Провайдеры и сети. Заполните вкладки Общие настройки и Настройки шифрования по аналогии с провайдером PPTP."
-type: article
+type: "article"
 section: "set/provaydery-i-seti"
 parent_id: "category_44"
-level: 3
-order: 15
+level: "3"
+order: "15"
 source_url: "https://doc.a-real.ru/index.php?article=212"
 processed_at: "2026-07-14"
-images_count: 3
-tags: [икс, провайдер, l2tp, vpn, сеть]
+images_count: "3"
+tags: "[икс, провайдер, l2tp, vpn, сеть]"
 ---
-
-# Провайдер L2TP
 
 Добавить провайдер L2TP можно в меню **Сеть → Провайдеры и сети**.
 
@@ -29,16 +27,12 @@ tags: [икс, провайдер, l2tp, vpn, сеть]
 
 ![Иллюстрация](../../images/article_212/img-002-52047-l2tp1-13.0.png)
 
-3. При настройке шифрования также можно выбрать **шифрование** [IPSec](https://doc.a-real.ru/index.php?article=24#ipsec) (потребуется ввести ключ). Если флаг **«Использовать DPD (dead peer detection)»** установлен, провайдер L2TP будет периодически спрашивать VPN-сервер, доступен ли он.
+3. При настройке шифрования также можно выбрать **шифрование** [IPSec](../../o-dokumentacii/slovar-terminov-3.md) (потребуется ввести ключ). Если флаг **«Использовать DPD (dead peer detection)»** установлен, провайдер L2TP будет периодически спрашивать VPN-сервер, доступен ли он.
 
 ![Иллюстрация](../../images/article_212/img-003-52047-l2tp2-13.0.png)
 
 4. Нажмите **«Добавить»** — новый провайдер появится в списке.
 
-5. Для более детальных настроек провайдера откройте его [индивидуальный модуль](https://doc.a-real.ru/index.php?article=201#individual).
+5. Для более детальных настроек провайдера откройте его [индивидуальный модуль](provayder-2.md).
 
-Провайдер L2TP также можно настроить [поверх IP/DHCP](https://doc.a-real.ru/index.php?article=213).
-
----
-
-**Источник:** [Документация ИКС — Провайдер L2TP](https://doc.a-real.ru/index.php?article=212)
+Провайдер L2TP также можно настроить [поверх IP/DHCP](provayder-l2tp-poverh-ip-dhcp-2.md).

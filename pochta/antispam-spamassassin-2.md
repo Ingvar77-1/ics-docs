@@ -2,24 +2,22 @@
 id: "article_90"
 title: "Антиспам SpamAssassin"
 description: "Модуль антиспам SpamAssassin предназначен для защиты от спама. Если служба определит, что письмо является спамом, она изменит тему письма."
-type: article
+type: "article"
 section: "pochta"
 parent_id: "category_22"
-level: 2
-order: 14
+level: "2"
+order: "14"
 source_url: "https://doc.a-real.ru/index.php?article=90"
 processed_at: "2026-07-14"
-images_count: 2
-tags: [икс, антиспам, spamassassin, почта]
+images_count: "2"
+tags: "[икс, антиспам, spamassassin, почта]"
 ---
-
-# Антиспам SpamAssassin
 
 Модуль антиспам SpamAssassin предназначен для защиты от спама. Если служба определит, что письмо является спамом, она изменит тему письма.
 
 ---
 
-Модуль **«Антиспам SpamAssassin»** предназначен для защиты от [спама](https://doc.a-real.ru/index.php?article=24#spam). Если служба определит, что письмо является спамом, она изменит тему письма. Данный модуль расположен в меню **Почта > Антиспам SpamAssassin**.
+Модуль **«Антиспам SpamAssassin»** предназначен для защиты от [спама](../o-dokumentacii/slovar-terminov-3.md). Если служба определит, что письмо является спамом, она изменит тему письма. Данный модуль расположен в меню **Почта > Антиспам SpamAssassin**.
 
 ![Иллюстрация](../images/article_90/spamassassin1-1.png)
 
@@ -44,7 +42,3 @@ tags: [икс, антиспам, spamassassin, почта]
 [Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
 
 Подробнее о SpamAssassin можно прочитать [здесь](https://wiki.apache.org/spamassassin/RoundingIssues).
-
----
-
-**Источник:** [Документация ИКС — Антиспам SpamAssassin](https://doc.a-real.ru/index.php?article=90)

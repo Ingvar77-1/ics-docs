@@ -2,18 +2,16 @@
 id: "article_230"
 title: "Получение статистики с Cisco-устройств"
 description: "ИКС поддерживает сбор статистики по IP-трафику с маршрутизаторов Cisco Systems по протоколу Netflow версий 5 и 9."
-type: article
+type: "article"
 section: "set/provaydery-i-seti"
 parent_id: "category_44"
-level: 3
-order: 24
+level: "3"
+order: "24"
 source_url: "https://doc.a-real.ru/index.php?article=230"
 processed_at: "2026-07-14"
-images_count: 1
-tags: [икс, netflow, cisco, маршрутизатор, статистика]
+images_count: "1"
+tags: "[икс, netflow, cisco, маршрутизатор, статистика]"
 ---
-
-# Получение статистики с Cisco-устройств
 
 ИКС поддерживает сбор статистики по IP-трафику с маршрутизаторов Cisco Systems по протоколу Netflow версий 5 и 9.
 
@@ -143,8 +141,4 @@ End
 ip flow ingress
 ```
 
-После настройки маршрутизатора Cisco следует [добавить](https://doc.a-real.ru/index.php?article=55#tab2) его в ИКС.
-
----
-
-**Источник:** [Документация ИКС — Получение статистики с Cisco-устройств](https://doc.a-real.ru/index.php?article=230)
+После настройки маршрутизатора Cisco следует [добавить](provaydery-i-seti-obzor-3.md) его в ИКС.

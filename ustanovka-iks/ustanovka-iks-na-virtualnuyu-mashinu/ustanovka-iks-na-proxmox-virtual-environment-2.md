@@ -2,18 +2,16 @@
 id: "article_411"
 title: "Установка ИКС на Proxmox Virtual Environment"
 description: "Инструкция по установке ИКС на Proxmox Virtual Environment: создание виртуальной машины, загрузка ISO-образа, настройка параметров и установка ИКС."
-type: article
+type: "article"
 section: "ustanovka-iks/ustanovka-iks-na-virtualnuyu-mashinu"
 parent_id: "category_56"
-level: 3
-order: 6
+level: "3"
+order: "6"
 source_url: "https://doc.a-real.ru/index.php?article=411"
 processed_at: "2026-07-14"
-images_count: 13
-tags: [икс, proxmox, установка, виртуализация, kvm]
+images_count: "13"
+tags: "[икс, proxmox, установка, виртуализация, kvm]"
 ---
-
-# Установка ИКС на Proxmox Virtual Environment
 
 Proxmox Virtual Environment — это система виртуализации с открытым исходным кодом, которая основана на Debian GNU/Linux.
 
@@ -78,7 +76,3 @@ Proxmox Virtual Environment — это система виртуализации
     ![Иллюстрация](../../images/article_411/Setting_VM.png)
 
 16. Начнется загрузка установщика ИКС по аналогии с обычной установкой ИКС на компьютер.
-
----
-
-**Источник:** [Документация ИКС — Установка ИКС на Proxmox Virtual Environment](https://doc.a-real.ru/index.php?article=411)

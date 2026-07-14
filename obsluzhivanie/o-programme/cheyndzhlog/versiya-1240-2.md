@@ -2,18 +2,16 @@
 id: "article_435"
 title: "Версия 12.4.0"
 description: "Версия 12.4.0 от 22 сентября 2025 г. Обновления служб, автоматический импорт адресов, DNS-области, двухфакторная аутентификация TOTP для VPN, улучшения кластера, файлового сервера, почты и веб-интерфейса."
-type: article
+type: "article"
 section: "obsluzhivanie/o-programme/cheyndzhlog"
 parent_id: "category_103"
-level: 4
-order: 6
+level: "4"
+order: "6"
 source_url: "https://doc.a-real.ru/index.php?article=435"
 processed_at: "2026-07-13"
-images_count: 0
-tags: [икс, changelog, обновление, vpn, xauth, кластер, почта]
+images_count: "0"
+tags: "[икс, changelog, обновление, vpn, xauth, кластер, почта]"
 ---
-
-# Версия 12.4.0
 
 Версия 12.4.0 от 22 сентября 2025 г.
 
@@ -76,7 +74,3 @@ tags: [икс, changelog, обновление, vpn, xauth, кластер, по
 - Clamav — CVE-2025-20260
 - asterisk18 — CVE-2024-53566
 - kea — CVE-2025-32803, CVE-2025-32802, CVE-2025-32801
-
----
-
-**Источник:** [Документация ИКС — Версия 12.4.0](https://doc.a-real.ru/index.php?article=435)

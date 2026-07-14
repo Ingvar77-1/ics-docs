@@ -2,18 +2,16 @@
 id: "article_439"
 title: "Версия 13.0"
 description: "Описание изменений в версии 13.0.0 межсетевого экрана ИКС от 9 декабря 2025: обновление FreeBSD, новые функции синхронизации, Captive Portal, прокси, VPN, DNS, веб-фильтра, и устранённые уязвимости."
-type: article
+type: "article"
 section: "obsluzhivanie/o-programme/cheyndzhlog"
 parent_id: "category_103"
-level: 4
-order: 5
+level: "4"
+order: "5"
 source_url: "https://doc.a-real.ru/index.php?article=439"
 processed_at: "2026-07-13"
-images_count: 0
-tags: [икс, обновление, changelog, версия, cheyndzhlog]
+images_count: "0"
+tags: "[икс, обновление, changelog, версия, cheyndzhlog]"
 ---
-
-# Версия 13.0
 
 **Версия 13.0.0 от 9 декабря 2025**
 
@@ -103,7 +101,3 @@ tags: [икс, обновление, changelog, версия, cheyndzhlog]
 ## Устраненные уязвимости
 
 - Детектор атак Suricata — CVE-2025-59147/BDU:2025-12460
-
----
-
-**Источник:** [Документация ИКС — Версия 13.0](https://doc.a-real.ru/index.php?article=439)

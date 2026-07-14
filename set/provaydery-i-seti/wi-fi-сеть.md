@@ -2,18 +2,16 @@
 id: "article_202"
 title: "Wi-Fi-сеть"
 description: "В ИКС можно использовать сетевую карту Wi-Fi в режиме точки доступа. Добавить Wi-Fi-сеть можно в меню Сеть > Провайдеры и сети."
-type: article
+type: "article"
 section: "set/provaydery-i-seti"
 parent_id: "category_44"
-level: 3
-order: 5
+level: "3"
+order: "5"
 source_url: "https://doc.a-real.ru/index.php?article=202"
 processed_at: "2026-07-14"
-images_count: 4
-tags: [икс, сети, wi-fi, провайдеры]
+images_count: "4"
+tags: "[икс, сети, wi-fi, провайдеры]"
 ---
-
-# Wi-Fi-сеть
 
 В ИКС можно использовать сетевую карту [Wi-Fi](/index.php?article=24#wi-fi) в режиме точки доступа.
 
@@ -43,8 +41,3 @@ tags: [икс, сети, wi-fi, провайдеры]
 
 ![Иллюстрация](../../images/article_202/wi-fi3.png)
 13. Нажмите **«Добавить»** — новая сеть появится в списке.
-
-
----
-
-**Источник:** [Документация ИКС — Wi-Fi-сеть](https://doc.a-real.ru/index.php?article=202)

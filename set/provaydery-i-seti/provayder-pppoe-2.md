@@ -2,18 +2,16 @@
 id: "article_214"
 title: "Провайдер PPPoE"
 description: "Добавить провайдер PPPoE можно в меню Сеть > Провайдеры и сети. Настройте интерфейс, логин, пароль, приоритет и ширину канала."
-type: article
+type: "article"
 section: "set/provaydery-i-seti"
 parent_id: "category_44"
-level: 3
-order: 17
+level: "3"
+order: "17"
 source_url: "https://doc.a-real.ru/index.php?article=214"
 processed_at: "2026-07-14"
-images_count: 3
-tags: [икс, провайдер, pppoe, сеть, администрирование]
+images_count: "3"
+tags: "[икс, провайдер, pppoe, сеть, администрирование]"
 ---
-
-# Провайдер PPPoE
 
 Добавить провайдер PPPoE можно в меню **Сеть &gt; Провайдеры и сети**.
 
@@ -55,7 +53,3 @@ tags: [икс, провайдер, pppoe, сеть, администрирова
 11. Нажмите **«Добавить»** — новый провайдер появится в списке.
 
 12. Для более детальных настроек провайдера откройте его индивидуальный модуль.
-
----
-
-**Источник:** [Документация ИКС — Провайдер PPPoE](https://doc.a-real.ru/index.php?article=214)

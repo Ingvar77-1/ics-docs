@@ -5,15 +5,13 @@ description: "Правило для приема звонка. Все прави
 type: "article"
 section: "telefoniya/pravila-telefonii"
 parent_id: "category_53"
-level: 3
-order: 3
+level: "3"
+order: "3"
 source_url: "https://doc.a-real.ru/index.php?article=249"
 processed_at: "2026-07-14"
-images_count: 2
-tags: [икс, телефония, правила, вызов]
+images_count: "2"
+tags: "[икс, телефония, правила, вызов]"
 ---
-
-# Принять вызов
 
 Правило предназначено для приема звонка. Все правила, идущие после него, не будут учитываться.
 
@@ -34,7 +32,3 @@ tags: [икс, телефония, правила, вызов]
 4. Нажмите **Добавить** — новое правило появится в списке.
 
 <span style="background-color: #fbeeb8;">Внимание! Телефонный номер должен состоять как минимум из трех цифр.</span>
-
----
-
-**Источник:** [Документация ИКС — Принять вызов](https://doc.a-real.ru/index.php?article=249)

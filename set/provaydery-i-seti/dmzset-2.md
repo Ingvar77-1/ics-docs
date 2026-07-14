@@ -2,18 +2,16 @@
 id: "article_203"
 title: "DMZ-сеть"
 description: "Добавить DMZ-сеть можно в меню Сеть > Провайдеры и сети. Настройка включает имя сети, интерфейс, диапазон адресов, VLAN ID, NAT и флаги управления."
-type: article
+type: "article"
 section: "set/provaydery-i-seti"
 parent_id: "category_44"
-level: 3
-order: 10
+level: "3"
+order: "10"
 source_url: "https://doc.a-real.ru/index.php?article=203"
 processed_at: "2026-07-14"
-images_count: 3
-tags: [икс, dmz, сети, настройки, провайдеры]
+images_count: "3"
+tags: "[икс, dmz, сети, настройки, провайдеры]"
 ---
-
-# DMZ-сеть
 
 Добавить DMZ-сеть можно в меню **Сеть &gt; Провайдеры и сети**. Для этого выполните следующие действия:
 
@@ -48,7 +46,3 @@ tags: [икс, dmz, сети, настройки, провайдеры]
    ![Иллюстрация](../../images/article_203/dmz2.png)
 
 10. Нажмите **«Добавить»** — новая сеть появится в списке.
-
----
-
-**Источник:** [Документация ИКС — DMZ-сеть](https://doc.a-real.ru/index.php?article=203)

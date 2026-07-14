@@ -2,18 +2,16 @@
 id: "article_86"
 title: "Веб-почта"
 description: "Модуль «Веб-почта» предоставляет доступ к почтовым ящикам почтового сервера ИКС с помощью веб-приложения Roundcube."
-type: article
+type: "article"
 section: "pochta/vebpochta"
 parent_id: "category_50"
-level: 3
-order: 2
+level: "3"
+order: "2"
 source_url: "https://doc.a-real.ru/index.php?article=86"
 processed_at: "2026-07-14"
-images_count: 7
-tags: [икс, почта, webmail, roundcube, почтовый сервер]
+images_count: "7"
+tags: "[икс, почта, webmail, roundcube, почтовый сервер]"
 ---
-
-# Веб-почта
 
 Модуль «Веб-почта» предоставляет доступ к почтовым ящикам почтового сервера ИКС с помощью веб-приложения Roundcube.
 
@@ -119,7 +117,3 @@ tags: [икс, почта, webmail, roundcube, почтовый сервер]
 ![Иллюстрация](../../images/article_86/web-mail3.png)
 
 Журнал является стандартным элементом веб-интерфейса ИКС.
-
----
-
-**Источник:** [Документация ИКС — Веб-почта](https://doc.a-real.ru/index.php?article=86)

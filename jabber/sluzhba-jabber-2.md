@@ -2,18 +2,16 @@
 id: "article_95"
 title: "Служба Jabber"
 description: "В ИКС поддерживается служба Jabber для обмена сообщениями и файлами по сети в режиме реального времени."
-type: article
+type: "article"
 section: "jabber"
 parent_id: "category_23"
-level: 2
-order: 3
+level: "2"
+order: "3"
 source_url: "https://doc.a-real.ru/index.php?article=95"
 processed_at: "2026-07-14"
-images_count: 3
-tags: [икс, jabber, служба, общение, файлы]
+images_count: "3"
+tags: "[икс, jabber, служба, общение, файлы]"
 ---
-
-# Служба Jabber
 
 В ИКС поддерживается служба Jabber для обмена сообщениями и файлами по сети в режиме реального времени.
 
@@ -45,7 +43,3 @@ tags: [икс, jabber, служба, общение, файлы]
 ![Иллюстрация](../images/article_95/jabber2.png)
 
 Журнал является стандартным элементом веб-интерфейса ИКС.
-
----
-
-**Источник:** [Документация ИКС — Служба Jabber](https://doc.a-real.ru/index.php?article=95)

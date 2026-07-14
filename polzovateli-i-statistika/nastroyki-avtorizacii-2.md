@@ -2,24 +2,22 @@
 id: "article_190"
 title: "Настройки авторизации"
 description: "Настройка соединения с доменом по протоколам Kerberos и LDAP для прозрачной авторизации пользователей AD."
-type: article
+type: "article"
 section: "polzovateli-i-statistika"
 parent_id: "category_18"
-level: 2
-order: 37
+level: "2"
+order: "37"
 source_url: "https://doc.a-real.ru/index.php?article=190"
 processed_at: "2026-07-13"
-images_count: 4
-tags: [икс, авторизация, kerberos, ldap, домен]
+images_count: "4"
+tags: "[икс, авторизация, kerberos, ldap, домен]"
 ---
-
-# Настройки авторизации
 
 Модуль «Настройки авторизации» предназначен для настройки соединения с доменом в сети при помощи сетевого протокола Kerberos или LDAP.
 
 ---
 
-Модуль **«Настройки авторизации»** предназначен для настройки соединения с доменом в сети при помощи сетевого протокола [Kerberos](https://doc.a-real.ru/index.php?article=24/#kerberos) или [LDAP](https://doc.a-real.ru/index.php?article=24/#ldap).
+Модуль **«Настройки авторизации»** предназначен для настройки соединения с доменом в сети при помощи сетевого протокола [Kerberos](../o-dokumentacii/slovar-terminov-3.md) или [LDAP](../o-dokumentacii/slovar-terminov-3.md).
 
 Данные типы авторизации используются, когда необходимо авторизовать пользователей AD. Авторизация будет выполнена прозрачно, без запроса логина и пароля. Использование данных типов предполагает прямое указание прокси в браузере или других программах, которые их поддерживают.
 
@@ -30,20 +28,20 @@ tags: [икс, авторизация, kerberos, ldap, домен]
 - [Kerberos](#kerberos)
 - [LDAP](#ldap)
 
-![Иллюстрация](../../images/article_190/authorization1-12.2.png)
+![Иллюстрация](../images/article_190/authorization1-12.2.png)
 
 ## Kerberos
 
-Данная вкладка предназначена для подключения к [контроллеру домена](https://doc.a-real.ru/index.php?article=24/#domain_controller) по протоколу сетевой аутентификации Kerberos.
+Данная вкладка предназначена для подключения к [контроллеру домена](../o-dokumentacii/slovar-terminov-3.md) по протоколу сетевой аутентификации Kerberos.
 
-![Иллюстрация](../../images/article_190/authorization2-12.2.png)
+![Иллюстрация](../images/article_190/authorization2-12.2.png)
 
 1. Заполните все поля вкладки:
-   - **«Имя компьютера»** — задает [hostname](https://doc.a-real.ru/index.php?article=24/#hostname);
+   - **«Имя компьютера»** — задает [hostname](../o-dokumentacii/slovar-terminov-3.md);
    - **«DNS имя домена»** — задает имя домена, в котором ИКС будет как пользователь;
    - **«DNS-имя контроллера домена»** — укажите соответствующее имя;
-   - **«Keytab файл»** — предназначено для загрузки [Keytab-файла](https://doc.a-real.ru/index.php?article=24/#keytab-file).
-2. Загрузите Keytab-файл по кнопке ![load](../../images/article_190/load.png).
+   - **«Keytab файл»** — предназначено для загрузки [Keytab-файла](../o-dokumentacii/slovar-terminov-3.md).
+2. Загрузите Keytab-файл по кнопке ![load](../images/article_190/load.png).
 3. Нажмите **«Сохранить»**.
 
 ### Пример создания Keytab-файла
@@ -59,7 +57,7 @@ ktpass -princ HTTP/Test.test.ru@TEST.RU -mapuser "Test" -pass "Aa123456" -crypto
 
 где:
 
-- `-princ HTTP/Test.test.ru@TEST.RU` — имя принципала службы ([SPN](https://doc.a-real.ru/index.php?article=24/#spn));
+- `-princ HTTP/Test.test.ru@TEST.RU` — имя принципала службы ([SPN](../o-dokumentacii/slovar-terminov-3.md));
 - `-mapuser "Test"` — пользователь, созданный в контроллере домена;
 - `-pass "Aa123456"` — пароль созданного пользователя;
 - `-out C:\ics_01.keytab` — путь до создаваемого Keytab-файла с указанием его имени.
@@ -92,11 +90,11 @@ ipa-getkeytab -s server.test.ru -p HTTP/test.test.ru@TEST.RU -k /tmp/ics_01.keyt
 
 > ⚠️ Внимание! При подключении по протоколу Kerberos имя системы будет изменено на «имя.домен».
 
-ИКС должен использовать контроллер домена как единственный [DNS-сервер](https://doc.a-real.ru/index.php?article=24/#dns-server), иначе необходимо добавить перенаправление DNS-зоны домена на [IP-адрес](https://doc.a-real.ru/index.php?article=24/#ip-address) одного или нескольких контроллеров домена.
+ИКС должен использовать контроллер домена как единственный [DNS-сервер](../o-dokumentacii/slovar-terminov-3.md), иначе необходимо добавить перенаправление DNS-зоны домена на [IP-адрес](../o-dokumentacii/slovar-terminov-3.md) одного или нескольких контроллеров домена.
 
 ### Настроить авторизацию на прокси с использованием Kerberos
 
-1. Укажите в браузере **адрес** [прокси-сервера](https://doc.a-real.ru/index.php?article=24/#proxi-server) ИКС как имя, под которым ИКС введен в домен (например, `test.office1.example.ru`). По IP данный тип авторизации работать не будет.
+1. Укажите в браузере **адрес** [прокси-сервера](../o-dokumentacii/slovar-terminov-3.md) ИКС как имя, под которым ИКС введен в домен (например, `test.office1.example.ru`). По IP данный тип авторизации работать не будет.
 2. В настройках службы прокси укажите, что нужно использовать **тип авторизации Kerberos**.
 
 > ⚠️ Важно! Если пользователь не прошел Kerberos-авторизацию, ему будет предложено ввести логин и пароль для LDAP-авторизации. При этом если не используется LDAPS (с сертификатом), пароль при LDAP-авторизации будет передаваться **в открытом виде**.
@@ -105,9 +103,9 @@ ipa-getkeytab -s server.test.ru -p HTTP/test.test.ru@TEST.RU -k /tmp/ics_01.keyt
 
 ## LDAP
 
-Данные полей вкладки синхронизируются с формой [импорта](https://doc.a-real.ru/index.php?article=131#ldap_ad) из LDAP.
+Данные полей вкладки синхронизируются с формой [импорта](polzovateli/import-polzovateley-2.md) из LDAP.
 
-![Иллюстрация](../../images/article_190/authorization3-12.2.png)
+![Иллюстрация](../images/article_190/authorization3-12.2.png)
 
 1. Выберите **LDAP-сервер**: Active Directory либо FreeIPA. В окне подключения к LDAP в поле «IP/Имя сервера» необходимо вводить доменное имя, а не IP-адрес.
    > ⚠️ Внимание! Начиная с версии 8.4, пользователи, импортированные из FreeIPA, могут авторизоваться в веб-интерфейсе, на прокси-сервере (с использованием Kerberos) и почтовом сервере. Подключение по VPN таких пользователей на данный момент недоступно.
@@ -132,7 +130,3 @@ ipa-getkeytab -s server.test.ru -p HTTP/test.test.ru@TEST.RU -k /tmp/ics_01.keyt
 > ⚠️ Начиная с версии ИКС 11.4 подключение через LDAPS и StartTLS будет недоступно, если серверный сертификат использует алгоритм хеширования SHA-1. Для обеспечения безопасного соединения рекомендуется перейти на более современные и надежные алгоритмы, такие как SHA-256.
 
 <iframe allowfullscreen="" frameborder="0" height="480" src="https://vk.com/video_ext.php?oid=-18503994&id=456239325&hd=2" width="853"></iframe>
-
----
-
-**Источник:** [Документация ИКС — Настройки авторизации](https://doc.a-real.ru/index.php?article=190)

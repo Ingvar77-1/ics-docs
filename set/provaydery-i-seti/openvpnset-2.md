@@ -2,18 +2,16 @@
 id: "article_198"
 title: "OpenVPN-сеть"
 description: "OpenVPN-сеть создаётся для множественных клиентских подключений к ИКС. Порядок создания сети, настройка параметров, сертификатов и шифрования."
-type: article
+type: "article"
 section: "set/provaydery-i-seti"
 parent_id: "category_44"
-level: 3
-order: 7
+level: "3"
+order: "7"
 source_url: "https://doc.a-real.ru/index.php?article=198"
 processed_at: "2026-07-14"
-images_count: 8
-tags: [икс, vpn, openvpn, сети, администрирование]
+images_count: "8"
+tags: "[икс, vpn, openvpn, сети, администрирование]"
 ---
-
-# OpenVPN-сеть
 
 OpenVPN-сеть создаётся для множественных клиентских подключений к ИКС. Добавить её можно в меню **Сеть > Провайдеры и сети**. Для этого выполните следующие действия:
 
@@ -128,7 +126,3 @@ OpenVPN-сеть создаётся для множественных клиен
 [Журнал](index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
 
 <iframe allowfullscreen="" frameborder="0" height="480" src="https://vk.com/video_ext.php?oid=-18503994&amp;id=456239333&amp;hd=2" width="853"></iframe>
-
----
-
-**Источник:** [Документация ИКС — OpenVPN-сеть](https://doc.a-real.ru/index.php?article=198)

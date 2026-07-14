@@ -2,13 +2,17 @@
 id: "category_54"
 title: "Хранилище файлов"
 description: "Раздел документации: Хранилище файлов"
-type: category
+type: "category"
 section: "faylovyy-server/hranilische-faylov"
 parent_id: "category_21"
-level: 2
-order: 1
+level: "2"
+order: "1"
 ---
 
-# Хранилище файлов
-
 Раздел документации межсетевого экрана ИКС.
+
+## Содержание раздела
+
+- 📄 [Веб-ресурс в хранилище файлов](vebresurs-v-hranilische-faylov-2.md)
+- 📄 [Виртуальный хост в хранилище файлов](virtualnyy-host-v-hranilische-faylov-2.md)
+- 📄 [Общий ресурс](obschiy-resurs-2.md)

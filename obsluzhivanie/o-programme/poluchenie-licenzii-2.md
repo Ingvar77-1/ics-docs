@@ -2,18 +2,16 @@
 id: "article_324"
 title: "Получение лицензии"
 description: "Процесс получения лицензии зависит от версии ИКС: для версий 10.2 и выше — через запрос в веб-интерфейсе, для версий 10.1.1 и ниже — через регистрацию сервера."
-type: article
+type: "article"
 section: "obsluzhivanie/o-programme"
 parent_id: "category_58"
-level: 3
-order: 9
+level: "3"
+order: "9"
 source_url: "https://doc.a-real.ru/index.php?article=324"
 processed_at: "2026-07-14"
-images_count: 12
-tags: [икс, лицензия, активация, регистрация, о-программе]
+images_count: "12"
+tags: "[икс, лицензия, активация, регистрация, о-программе]"
 ---
-
-# Получение лицензии
 
 Процесс получения лицензии зависит от версии ИКС.
 
@@ -171,7 +169,3 @@ tags: [икс, лицензия, активация, регистрация, о-
 - [Чем отличается версия Стандарт от ФСТЭК?](https://doc.a-real.ru/index.php?article=178)
 - [Можно ли увеличить пользователей в ИКС Lite?](https://doc.a-real.ru/index.php?article=180)
 - [Как продлить модуль «Техподдержка»?](https://doc.a-real.ru/index.php?article=154)
-
----
-
-**Источник:** [Документация ИКС — Получение лицензии](https://doc.a-real.ru/index.php?article=324)

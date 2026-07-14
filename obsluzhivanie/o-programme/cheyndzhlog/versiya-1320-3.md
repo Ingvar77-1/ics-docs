@@ -2,18 +2,16 @@
 id: "article_445"
 title: "Версия 13.2.0"
 description: "Чейнджлог версии 13.2.0 ИКС: обновление FreeBSD, полная цепочка сертификатов, блокировка по индикаторам компрометации в прокси, улучшения VPN и других служб."
-type: article
+type: "article"
 section: "obsluzhivanie/o-programme/cheyndzhlog"
 parent_id: "category_103"
-level: 4
-order: 2
+level: "4"
+order: "2"
 source_url: "https://doc.a-real.ru/index.php?article=445"
 processed_at: "2026-07-13"
-images_count: 0
-tags: [икс, чейнджлог, обновления, прокси, vpn]
+images_count: "0"
+tags: "[икс, чейнджлог, обновления, прокси, vpn]"
 ---
-
-# Версия 13.2.0
 
 ## Общие изменения
 
@@ -69,7 +67,3 @@ tags: [икс, чейнджлог, обновления, прокси, vpn]
 
 - Исправлены опечатки и отсутствующий перевод.
 - Исправлен ряд ошибок.
-
----
-
-**Источник:** [Документация ИКС — Версия 13.2.0](https://doc.a-real.ru/index.php?article=445)

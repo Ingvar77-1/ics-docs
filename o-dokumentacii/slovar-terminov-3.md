@@ -1,26 +1,17 @@
 ---
-id: article_24
-title: Словарь терминов
-description: >-
-  Справочник сетевых и ИКТ терминов: 3G, AD, ARP, CARP, DHCP, DNS, IPSec, NAT,
-  VPN, SSL и другие ключевые понятия документации ИКС.
-type: article
-section: o-dokumentacii
-parent_id: category_10
-level: 2
-order: 2
-source_url: https://doc.a-real.ru/index.php?article=24
+id: "article_24"
+title: "Словарь терминов"
+description: ">-"
+Справочник сетевых и ИКТ терминов: "3G, AD, ARP, CARP, DHCP, DNS, IPSec, NAT,"
+type: "article"
+section: "o-dokumentacii"
+parent_id: "category_10"
+level: "2"
+order: "2"
+source_url: "https://doc.a-real.ru/index.php?article=24"
 processed_at: "2026-07-13"
-tags:
-  - икс
-  - термины
-  - словарь
-  - сеть
-  - протоколы
-  - стандарты
+tags: ""
 ---
-
-# Словарь терминов
 
 Справочник основных терминов, используемых в документации межсетевого экрана ИКС.
 
@@ -1253,7 +1244,3 @@ tags:
 
 
 (RBL, Real-time Blackhole List, или DNSBL, DNS blacklist или DNS blocklist) -- списки хостов, хранимые с использованием системы архитектуры DNS. Обычно используются для борьбы со спамом. Почтовый сервер обращается к DNSBL и проверяет в нем наличие IP-адреса клиента, с которого он принимает сообщение. При положительном ответе считается, что происходит попытка приема спам-сообщения. Серверу отправителя сообщается ошибка 5xx (неустранимая ошибка) и сообщение не принимается. В большинстве случаев изменять этот список не требуется.
-
----
-
-**Источник:** [Документация ИКС — Словарь терминов](https://doc.a-real.ru/index.php?article=24)

@@ -2,44 +2,42 @@
 id: "article_146"
 title: "Пользовательские правила доступа"
 description: "ИКС может контролировать интернет-трафик пользователей с помощью межсетевого экрана, прокси-сервера, Application Firewall и контент-фильтра."
-type: article
+type: "article"
 section: "polzovateli-i-statistika/polzovatelskie-pravila-dostupa"
 parent_id: "category_30"
-level: 3
-order: 2
+level: "3"
+order: "2"
 source_url: "https://doc.a-real.ru/index.php?article=146"
 processed_at: "2026-07-14"
-images_count: 2
-tags: [икс, икс, правила доступа, пользователь, firewall, proxy]
+images_count: "2"
+tags: "[икс, икс, правила доступа, пользователь, firewall, proxy]"
 ---
-
-# Пользовательские правила доступа
 
 ИКС может контролировать интернет-трафик пользователей с помощью межсетевого экрана, прокси-сервера, Application Firewall и контент-фильтра.
 
 ---
 
-ИКС может контролировать интернет-трафик пользователей. Для этого используются такие службы, как [межсетевой экран](https://doc.a-real.ru/index.php?article=27), [прокси-сервер](https://doc.a-real.ru/index.php?article=62), [Application Firewall](https://doc.a-real.ru/index.php?article=73) и [контент-фильтр](https://doc.a-real.ru/index.php?article=76).
+ИКС может контролировать интернет-трафик пользователей. Для этого используются такие службы, как [межсетевой экран](../../set/mezhsetevoy-ekran/mezhsetevoy-ekran-obzor-3.md), [прокси-сервер](https://doc.a-real.ru/index.php?article=62), [Application Firewall](https://doc.a-real.ru/index.php?article=73) и [контент-фильтр](https://doc.a-real.ru/index.php?article=76).
 
 В ИКС можно создавать следующие правила:
 
-- [Запрещающее правило](https://doc.a-real.ru/index.php?article=147)
-- [Запрещающее правило Application Firewall](https://doc.a-real.ru/index.php?article=148)
-- [Разрешающее правило](https://doc.a-real.ru/index.php?article=158)
-- [Исключение](https://doc.a-real.ru/index.php?article=364)
-- [Запрещающее правило прокси](https://doc.a-real.ru/index.php?article=150)
+- [Запрещающее правило](zapreschayuschee-pravilo-2.md)
+- [Запрещающее правило Application Firewall](zapreschayuschee-pravilo-application-firewall-3.md)
+- [Разрешающее правило](razreshayuschee-pravilo-2.md)
+- [Исключение](isklyuchenie-2.md)
+- [Запрещающее правило прокси](zapreschayuschee-pravilo-proksi-2.md)
 - [Разрешающее правило прокси](https://doc.a-real.ru/index.php?article=153)
-- [Исключение прокси](https://doc.a-real.ru/index.php?article=160)
+- [Исключение прокси](isklyuchenie-proksi-3.md)
 - [Ограничение количества соединений](https://doc.a-real.ru/index.php?article=161)
-- [Ограничение скорости](https://doc.a-real.ru/index.php?article=162)
-- [Выделение полосы пропускания](https://doc.a-real.ru/index.php?article=163)
-- [Маршрут](https://doc.a-real.ru/index.php?article=164)
-- [Квота](https://doc.a-real.ru/index.php?article=159)
-- [Правило контентной фильтрации](https://doc.a-real.ru/index.php?article=166)
+- [Ограничение скорости](ogranichenie-skorosti-2.md)
+- [Выделение полосы пропускания](vydelenie-polosy-propuskaniya-2.md)
+- [Маршрут](marshrut-2.md)
+- [Квота](kvota-2.md)
+- [Правило контентной фильтрации](pravilo-kontentnoy-filtracii-2.md)
 
 Правила или [наборы правил](https://doc.a-real.ru/index.php?article=45) могут принадлежать пользователю, группе пользователей, роли пользователя и определяют возможности доступа к сети Интернет.
 
-Управление правилами осуществляется на вкладке «Правила и ограничения» в [индивидуальном модуле пользователя (группы)](https://doc.a-real.ru/index.php?article=142), который расположен в меню **Пользователи и статистика > Пользователи**.
+Управление правилами осуществляется на вкладке «Правила и ограничения» в [индивидуальном модуле пользователя (группы)](../polzovateli/individualnyy-modul-polzovatelya-gruppy-2.md), который расположен в меню **Пользователи и статистика > Пользователи**.
 
 ![Иллюстрация](../../images/article_146/copy_rule1.jpg)
 
@@ -68,7 +66,3 @@ tags: [икс, икс, правила доступа, пользователь, 
 Если совпало правило исключения, проверка **всех** последующих правил на данном шаге пропускается и процесс проверки правил переходит к следующему шагу.
 
 Для того чтобы **скопировать** созданное правило, нажмите на него в списке, а затем — на кнопку
-
----
-
-**Источник:** [Документация ИКС — Пользовательские правила доступа](https://doc.a-real.ru/index.php?article=146)

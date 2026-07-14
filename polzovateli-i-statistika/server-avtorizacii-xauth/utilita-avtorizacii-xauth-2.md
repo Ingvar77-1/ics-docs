@@ -2,25 +2,23 @@
 id: "article_187"
 title: "Утилита авторизации Xauth"
 description: "Утилита Xauth (клиент Xauth) предназначена для авторизации пользователей на ИКС. Установка в Windows и Linux, подключение к серверу, статистика, обновление, авторизация и ключи запуска."
-type: article
+type: "article"
 section: "polzovateli-i-statistika/server-avtorizacii-xauth"
 parent_id: "category_42"
-level: 3
-order: 3
+level: "3"
+order: "3"
 source_url: "https://doc.a-real.ru/index.php?article=187"
 processed_at: "2026-07-14"
-images_count: 8
-tags: [икс, авторизация, xauth, клиент, firewall]
+images_count: "8"
+tags: "[икс, авторизация, xauth, клиент, firewall]"
 ---
-
-# Утилита авторизации Xauth
 
 Утилита авторизации Xauth (клиент Xauth) предназначена для авторизации пользователей на ИКС.
 
 ---
 
 Утилита авторизации
-[**Xauth**](https://doc.a-real.ru/index.php?article=24#xauth)
+[**Xauth**](../../o-dokumentacii/slovar-terminov-3.md)
 (**клиент Xauth**) предназначена для авторизации пользователей на ИКС.
 
 Рассмотрим следующие операции:
@@ -151,7 +149,3 @@ tags: [икс, авторизация, xauth, клиент, firewall]
 Если при запуске возникла ошибка, запустите приложение с ключом `--appimage-extract`.
 
 > ⚠ Функция «Закрыть при блокировке» работает в графических оболочках gnome, fly, unity, kde, mate, x-cinnamon. В lxde, xfce, lxqt и остальных не работает.
-
----
-
-**Источник:** [Документация ИКС — Утилита авторизации Xauth](https://doc.a-real.ru/index.php?article=187)
