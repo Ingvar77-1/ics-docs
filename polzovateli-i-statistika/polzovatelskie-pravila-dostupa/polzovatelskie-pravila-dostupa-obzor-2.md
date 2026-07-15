@@ -17,7 +17,7 @@ tags: "[икс, икс, правила доступа, пользователь,
 
 ---
 
-ИКС может контролировать интернет-трафик пользователей. Для этого используются такие службы, как [межсетевой экран](../../set/mezhsetevoy-ekran/mezhsetevoy-ekran-obzor-3.md), [прокси-сервер](https://doc.a-real.ru/index.php?article=62), [Application Firewall](https://doc.a-real.ru/index.php?article=73) и [контент-фильтр](https://doc.a-real.ru/index.php?article=76).
+ИКС может контролировать интернет-трафик пользователей. Для этого используются такие службы, как [межсетевой экран](../../set/mezhsetevoy-ekran/mezhsetevoy-ekran-obzor-3.md), [прокси-сервер](../../set/proksi/proksi-obzor.md), [Application Firewall](https://doc.a-real.ru/index.php?article=73) и [контент-фильтр](../../zaschita/kontentfiltr.md).
 
 В ИКС можно создавать следующие правила:
 
@@ -26,16 +26,16 @@ tags: "[икс, икс, правила доступа, пользователь,
 - [Разрешающее правило](razreshayuschee-pravilo-2.md)
 - [Исключение](isklyuchenie-2.md)
 - [Запрещающее правило прокси](zapreschayuschee-pravilo-proksi-2.md)
-- [Разрешающее правило прокси](https://doc.a-real.ru/index.php?article=153)
+- [Разрешающее правило прокси](razreshayuschee-pravilo-proksi.md)
 - [Исключение прокси](isklyuchenie-proksi-3.md)
-- [Ограничение количества соединений](https://doc.a-real.ru/index.php?article=161)
+- [Ограничение количества соединений](ogranichenie-kolichestva-soedineniy.md)
 - [Ограничение скорости](ogranichenie-skorosti-2.md)
 - [Выделение полосы пропускания](vydelenie-polosy-propuskaniya-2.md)
 - [Маршрут](marshrut-2.md)
 - [Квота](kvota-2.md)
 - [Правило контентной фильтрации](pravilo-kontentnoy-filtracii-2.md)
 
-Правила или [наборы правил](https://doc.a-real.ru/index.php?article=45) могут принадлежать пользователю, группе пользователей, роли пользователя и определяют возможности доступа к сети Интернет.
+Правила или [наборы правил](../nabory-pravil/nabory-pravil-obzor.md) могут принадлежать пользователю, группе пользователей, роли пользователя и определяют возможности доступа к сети Интернет.
 
 Управление правилами осуществляется на вкладке «Правила и ограничения» в [индивидуальном модуле пользователя (группы)](../polzovateli/individualnyy-modul-polzovatelya-gruppy-2.md), который расположен в меню **Пользователи и статистика > Пользователи**.
 

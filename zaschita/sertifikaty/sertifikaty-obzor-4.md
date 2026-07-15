@@ -25,7 +25,7 @@ tags: "[икс, сертификаты, ssl, tls, безопасность]"
 
 Внимание! C версии 7.1.0 прекращена поддержка сертификатов с шифрованием md5.
 
-При первой [установке ИКС](https://doc.a-real.ru/index.php?article=269) автоматически создаются конечные сертификаты [для веб-интерфейса](https://doc.a-real.ru/index.php?category=16), [телефонии](../../telefoniya/telefoniya-obzor-3.md) и [почты](../../pochta/pochta-obzor-2.md).
+При первой [установке ИКС](../../ustanovka-iks/ustanovka-iks-s-diska.md) автоматически создаются конечные сертификаты [для веб-интерфейса](https://doc.a-real.ru/index.php?category=16), [телефонии](../../telefoniya/telefoniya-obzor-3.md) и [почты](../../pochta/pochta-obzor-2.md).
 
 Для открытия модуля перейдите в меню **Защита > Сертификаты**.
 

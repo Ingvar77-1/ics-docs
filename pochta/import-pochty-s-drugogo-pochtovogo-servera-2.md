@@ -13,7 +13,7 @@ images_count: "0"
 tags: "[икс, почта, импорт, миграция, maildir]"
 ---
 
-[Почтовый сервер](https://doc.a-real.ru/index.php?article=84) ИКС использует для хранения содержимого почтовых ящиков формат [Maildir](../o-dokumentacii/slovar-terminov-3.md).
+[Почтовый сервер](sluzhba-pochtovogo-servera.md) ИКС использует для хранения содержимого почтовых ящиков формат [Maildir](../o-dokumentacii/slovar-terminov-3.md).
 
 Чтобы перенести содержимое своего почтового сервера на ИКС, выполните следующие действия:
 

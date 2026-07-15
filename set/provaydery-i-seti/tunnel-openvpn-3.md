@@ -27,9 +27,9 @@ tags: "[икс, vpn, openvpn, туннель, сеть]"
 
 ![Иллюстрация](../../images/article_221/tunnel_openvpn1-10.2.png)
 
-2. Настройте [подключение OpenVPN](https://doc.a-real.ru/index.php?article=223).
+2. Настройте [подключение OpenVPN](../vpn/nastroyka-podklyucheniya-openvpn.md).
 
-3. В меню **Пользователи и статистика > Пользователи** [создайте пользователя](https://doc.a-real.ru/index.php?article=130) для подключения к OpenVPN.
+3. В меню **Пользователи и статистика > Пользователи** [создайте пользователя](../../polzovateli-i-statistika/polzovateli/dobavit-polzovatelya-gruppu-vruchnuyu.md) для подключения к OpenVPN.
 
 4. В меню **Сеть > VPN > Пользователи** откройте созданному пользователю доступ к OpenVPN.
 

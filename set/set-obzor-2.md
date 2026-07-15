@@ -51,7 +51,7 @@ tags: "[икс, сети, firewall, vpn, dhcp, dns]"
 
 **Прокси**
 
-Данный модуль в ИКС отвечает за [использование и контроль](https://doc.a-real.ru/index.php?article=62) HTTP/HTTPS-трафика.
+Данный модуль в ИКС отвечает за [использование и контроль](proksi/proksi-obzor.md) HTTP/HTTPS-трафика.
 
 **VPN**
 

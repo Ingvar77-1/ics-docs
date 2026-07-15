@@ -33,7 +33,7 @@ tags: ""
 
 1. Для получения дистрибутива программы заполните специальную форму на [сайте](https://xserver.a-real.ru/#sect-download). На почту придет письмо со ссылками для скачивания. Перейдите по нужной ссылке и скачайте дистрибутив.
 
-2. Установите ИКС на устройство с [диска](https://doc.a-real.ru/index.php?article=269) либо с [флеш-накопителя](../ustanovka-iks/ustanovka-s-fleshki-2.md).
+2. Установите ИКС на устройство с [диска](../ustanovka-iks/ustanovka-iks-s-diska.md) либо с [флеш-накопителя](../ustanovka-iks/ustanovka-s-fleshki-2.md).
 
 3. Войдите в [веб-интерфейс](../vebinterfeys-iks/vhod-v-vebinterfeys-2.md) программы.
 

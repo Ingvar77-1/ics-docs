@@ -59,14 +59,14 @@ tags: "[икс, сети, провайдеры, маршрутизация, ба
 
 | Сети | Провайдеры | Туннели |
 |------|------------|---------|
-| [Локальная сеть](lokalnaya-set-2.md) | [Провайдер](provayder-2.md) | [Туннель IPsec](https://doc.a-real.ru/index.php?article=218) |
-| [Внутренняя сеть](vnutrennyaya-set-2.md) | [Провайдер PPTP](https://doc.a-real.ru/index.php?article=210) | [Туннель IPIP](https://doc.a-real.ru/index.php?article=219) |
-| [Wi-Fi-сеть](wifiset-2.md) | [Провайдер PPTP поверх IP/DHCP](https://doc.a-real.ru/index.php?article=211) | [Туннель GRE](tunnel-gre-2.md) |
+| [Локальная сеть](lokalnaya-set-2.md) | [Провайдер](provayder-2.md) | [Туннель IPsec](tunnel-ipsec.md) |
+| [Внутренняя сеть](vnutrennyaya-set-2.md) | [Провайдер PPTP](provayder-pptp.md) | [Туннель IPIP](tunnel-ipip.md) |
+| [Wi-Fi-сеть](wifiset-2.md) | [Провайдер PPTP поверх IP/DHCP](provayder-pptp-poverh-ip-dhcp.md) | [Туннель GRE](tunnel-gre-2.md) |
 | [VPN-сеть](vpnset-2.md) | [Провайдер L2TP](provayder-l2tp-3.md) | [Туннель OpenVPN](tunnel-openvpn-3.md) |
 | [OpenVPN-сеть](openvpnset-2.md) | [Провайдер L2TP поверх IP/DHCP](provayder-l2tp-poverh-ip-dhcp-2.md) | |
 | [SSTP-сеть](sstpset-2.md) | [Провайдер PPPoE](provayder-pppoe-2.md) | |
 | [Wireguard-сеть](wireguardset-2.md) | [Провайдер 3G](provayder-3g-2.md) | |
-| [DMZ-сеть](dmzset-2.md) | [Wi-Fi-провайдер](https://doc.a-real.ru/index.php?article=216) | |
+| [DMZ-сеть](dmzset-2.md) | [Wi-Fi-провайдер](wifiprovayder.md) | |
 
 ![Добавление сети](../../images/article_55/provider_net1-2-10.2.png)
 

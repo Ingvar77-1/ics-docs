@@ -19,7 +19,7 @@ tags: "[икс, наборы правил, пользовательские пр
 
 Модуль «Наборы правил» расположен в меню **Пользователи и статистика > Наборы правил**.
 
-В [набор правил](https://doc.a-real.ru/index.php?article=171) можно добавлять любое количество [пользовательских правил](../polzovatelskie-pravila-dostupa/polzovatelskie-pravila-dostupa-obzor-2.md). Выделите набор, нажмите **«Добавить»** и выберите нужное правило.
+В [набор правил](sozdat-nabor-pravil.md) можно добавлять любое количество [пользовательских правил](../polzovatelskie-pravila-dostupa/polzovatelskie-pravila-dostupa-obzor-2.md). Выделите набор, нажмите **«Добавить»** и выберите нужное правило.
 
 ![ruleset3](../../images/article_172/ruleset3.jpg)
 

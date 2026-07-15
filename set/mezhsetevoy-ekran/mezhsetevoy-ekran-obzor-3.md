@@ -73,7 +73,7 @@ tags: "[икс, firewall, nat, сети, правила]"
 - [разрешающие](razreshayuschee-pravilo-mezhsetevogo-ekrana-2.md) — разрешают доступ;
 - [запрещающие](zapreschayuschee-pravilo-mezhsetevogo-ekrana-2.md) — запрещают, ограничивают доступ;
 - [приоритеты](prioritet-mezhsetevogo-ekrana-2.md) — определяют, какой трафик будет обрабатываться в первую очередь (например, телефония), а какой — в последнюю (например, e-mail);
-- [ограничения скорости](https://doc.a-real.ru/index.php?article=209) — позволяют задать максимальную скорость для определенных соединений.
+- [ограничения скорости](ogranichenie-skorosti-mezhsetevym-ekranom.md) — позволяют задать максимальную скорость для определенных соединений.
 
 ![Иллюстрация](../../images/article_27/firewall3-10.2.jpg)
 
