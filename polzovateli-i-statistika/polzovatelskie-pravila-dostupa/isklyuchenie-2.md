@@ -41,5 +41,5 @@ tags: "[икс, исключение, правила, пользователи, 
 
    > ⚠ Внимание! Данное правило фильтрует трафик на уровне протокола [IP](../../o-dokumentacii/slovar-terminov-3.md) и не может фильтровать трафик по [URL](../../o-dokumentacii/slovar-terminov-3.md). Для фильтрации по URL используется [исключение прокси](isklyuchenie-proksi-3.md).
 
-5. Выберите [время действия](https://doc.a-real.ru/index.php?article=196#time) в отдельном окне.
+5. Выберите [время действия](../../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) в отдельном окне.
 6. Нажмите **«Добавить»** — созданное правило отобразится на вкладке.

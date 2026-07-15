@@ -74,7 +74,7 @@ tags: "[икс, антиспам, почта, фильтрация, каспер
 
 ![Иллюстрация](../images/article_93/kaspersky-antispam3.png)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.
 
 ### Больше информации:
 

@@ -123,4 +123,4 @@ tags: "[икс, провайдер, сеть, маршрутизация, бал
 
 ![Журнал событий провайдера](../../images/article_201/provider_ind4.png)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.

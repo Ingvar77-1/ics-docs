@@ -17,7 +17,7 @@ tags: "[икс, икс, правила доступа, пользователь,
 
 ---
 
-ИКС может контролировать интернет-трафик пользователей. Для этого используются такие службы, как [межсетевой экран](../../set/mezhsetevoy-ekran/mezhsetevoy-ekran-obzor-3.md), [прокси-сервер](../../set/proksi/proksi-obzor.md), [Application Firewall](https://doc.a-real.ru/index.php?article=73) и [контент-фильтр](../../zaschita/kontentfiltr.md).
+ИКС может контролировать интернет-трафик пользователей. Для этого используются такие службы, как [межсетевой экран](../../set/mezhsetevoy-ekran/mezhsetevoy-ekran-obzor-3.md), [прокси-сервер](../../set/proksi/proksi-obzor.md), [Application Firewall](../../zaschita/application-firewall.md) и [контент-фильтр](../../zaschita/kontentfiltr.md).
 
 В ИКС можно создавать следующие правила:
 

@@ -45,7 +45,7 @@ tags: "[икс, файловый-сервер, веб, виртуальный-х
 
 10. Флаг **«Создать ссылку для www.\<имя_домена\>»** предназначен для настройки [DNS](../../o-dokumentacii/slovar-terminov-3.md)-записей для приёма HTTP-запросов как на имя сайта, указанное в названии, так и на него же с добавлением домена www.
 
-11. Флаг **«Не использовать Web Application Firewall»** отключает модуль [Web Application Firewall](https://doc.a-real.ru/index.php?article=72).
+11. Флаг **«Не использовать Web Application Firewall»** отключает модуль [Web Application Firewall](../../zaschita/web-application-firewall.md).
 
 12. В блоке **«Настройки HTTPS»** выберите настройки обработки [HTTPS](../../o-dokumentacii/slovar-terminov-3.md)-запросов. Установите переключатель:
 

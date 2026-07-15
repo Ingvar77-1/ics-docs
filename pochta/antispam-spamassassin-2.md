@@ -39,6 +39,6 @@ tags: "[икс, антиспам, spamassassin, почта]"
 
 ![Иллюстрация](../images/article_90/spamassassin1-2.png)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.
 
 Подробнее о SpamAssassin можно прочитать [здесь](https://wiki.apache.org/spamassassin/RoundingIssues).

@@ -99,4 +99,4 @@ tags: "[икс, удаленное_управление, сеть, vpn, серт
 
 ![Иллюстрация 6](../images/article_65/remote_control4.png)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.

@@ -2,18 +2,16 @@
 id: "article_77"
 title: "Fail2ban"
 description: "Модуль Fail2ban сканирует лог-файлы и блокирует IP-адреса, которые ведут себя подозрительно, например делают слишком много попыток входа с неверным паролем."
-type: article
+type: "article"
 section: "zaschita"
 parent_id: "category_20"
-level: 2
-order: 16
+level: "2"
+order: "16"
 source_url: "https://doc.a-real.ru/index.php?article=77"
 processed_at: "2026-07-15"
-images_count: 8
-tags: [икс, fail2ban, защита, firewall, безопасность]
+images_count: "8"
+tags: "[икс, fail2ban, защита, firewall, безопасность]"
 ---
-
-# Fail2ban
 
 Модуль Fail2ban сканирует лог-файлы и блокирует IP-адреса, которые ведут себя подозрительно (например, делают слишком много попыток входа с неверным паролем).
 
@@ -114,8 +112,4 @@ tags: [икс, fail2ban, защита, firewall, безопасность]
 
 ![Иллюстрация](../images/article_77/fail2ban4.png)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
-
----
-
-**Источник:** [Документация ИКС — Fail2ban](https://doc.a-real.ru/index.php?article=77)
+[Журнал](../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.

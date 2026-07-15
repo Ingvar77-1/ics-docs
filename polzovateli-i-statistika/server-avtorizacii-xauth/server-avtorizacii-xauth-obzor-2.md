@@ -67,4 +67,4 @@ tags: "[икс, xauth, авторизация, аутентификация, GSS
 
 ![Иллюстрация](../../images/article_51/25330xauth4-12.1.png)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.

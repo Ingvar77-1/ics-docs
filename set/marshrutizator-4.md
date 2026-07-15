@@ -282,4 +282,4 @@ tags: "[икс, маршрутизация, ospf, bgp, сети]"
 
 ![Журнал](../images/article_427/router17.jpg)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.

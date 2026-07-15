@@ -123,7 +123,7 @@ tags: "[икс, обслуживание, система, администрир
 
 ![Иллюстрация](../images/article_107/log_9.2.jpg)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.
 
 ## Задачи
 

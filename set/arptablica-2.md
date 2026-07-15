@@ -54,4 +54,4 @@ ARP-таблица отображает IP-адреса и MAC-адреса по
 
 ![Иллюстрация](../images/article_64/arp3.png)
 
-[Журнал](https://doc.a-real.ru/index.php?article=196#summary) является стандартным элементом веб-интерфейса ИКС.
+[Журнал](../vebinterfeys-iks/standartnye-elementy-vebinterfeysa.md) является стандартным элементом веб-интерфейса ИКС.
