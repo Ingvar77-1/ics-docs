@@ -1,13 +1,15 @@
 ---
-id: "article_272"
-title: "Обслуживание"
-description: "Описание инструментов обслуживания системы в Шлюзе безопасности ИКС: система, службы, резервные копии, управление питанием и другие."
-type: "article"
-section: "obsluzhivanie"
-parent_id: "category_25"
+id: article_272
+title: Обслуживание
+description: >-
+  Описание инструментов обслуживания системы в Шлюзе безопасности ИКС: система,
+  службы, резервные копии, управление питанием и другие.
+type: article
+section: obsluzhivanie
+parent_id: category_25
 level: "2"
 order: "8"
-source_url: "https://doc.a-real.ru/index.php?article=272"
+source_url: https://doc.a-real.ru/index.php?article=272
 processed_at: "2026-07-14"
 images_count: "0"
 tags: "[икс, обслуживание, система, инструменты, администрирование]"
